@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-custom-title: Hello, I'm Zach...
+custom-title: none
 permalink: /about/
 ---
 
