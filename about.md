@@ -1,18 +1,14 @@
 ---
 layout: page
 title: About
+custom-title: Hello, I'm Zach...
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="{{ site.url}}/images/pages/me_about.png" class="img-circle rounded mx-auto d-block" height="300" width="275">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I go to MIT. I study Computer Science. I do research in the Media Lab. I’m an aspiring Humanist and a closet Romantic.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The universe is full of wonder and awe - and it’s not a matter of knowing where to look; it’s a matter of knowing how to look.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Let yourself be inspired…
