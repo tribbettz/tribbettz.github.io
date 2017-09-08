@@ -2,8 +2,6 @@
 layout: post
 title: "Brain Potentials and Rhythms"
 date: 2013-04-27 13:40
-comments: false
-sharing: false
 published: true
 categories: [Neuroscience, Brain, Books]
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Too Much Stuff: Cognitive Baggage"
 date: 2013-04-16 23:59
 excerpt: >
-    Stuff. We all have it. Sometimes we want more stuff. Other times we want to get rid of stuff. But in both cases our minds - our brains - are focusing on things, items, property; in a word, stuff.
+    <p>Stuff. We all have it. Sometimes we want more stuff. Other times we want to get rid of stuff. But in both cases our minds - our brains - are focusing on things, items, property; in a word, <i>stuff</i>.</p>
 published: true
 categories: [Neuroscience, Brain, Ideas, Comedy]
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: "What's in a Name?"
 date: 2013-04-17 03:06
-comments: false
-sharing: false
 published: true
 categories: [Reflection, Expression, Perspective]
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: "Putting Out the Good Vibes"
 date: 2013-04-15 23:20
-comments: false
-sharing: false
 published: true
 categories: [Neuroscience, Brain, Waves, Research, Ideas, Books]
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: "Architecture: Dynamic Art"
 date: 2013-04-10 14:27
-comments: false
-sharing: false
 published: true
 categories: [Quality, Architecture, Art, Reflection, Books, Perspective]
 ---

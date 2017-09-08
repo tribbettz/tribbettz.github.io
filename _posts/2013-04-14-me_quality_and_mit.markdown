@@ -2,8 +2,6 @@
 layout: post
 title: "Me, Quality, and MIT"
 date: 2013-04-14 20:51
-comments: false
-sharing: false
 published: true
 categories: [Quality, Reflection, MIT, Education]
 ---

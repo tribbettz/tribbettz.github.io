@@ -3,7 +3,7 @@ layout: post
 title: "Boston: One Jazzy Town"
 date: 2013-04-25 23:18
 excerpt: >
-    What began as a trek for lunch ultimately turned into a three hour adventure. And did I ever get to consume a delicious Subway sandwich? Well... sit tight because the plot thickens.
+    <p>What began as a trek for lunch ultimately turned into a three hour adventure. And did I ever get to consume a delicious Subway sandwich? Well... sit tight because the plot thickens.</p>
 published: true
 categories: [Art, Color, Ideas, Expression, Music]
 ---

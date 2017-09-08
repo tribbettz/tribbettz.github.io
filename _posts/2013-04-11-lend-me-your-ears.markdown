@@ -2,8 +2,6 @@
 layout: post
 title: "Lend Me Your Ears!"
 date: 2013-04-11 12:19
-comments: false
-sharing: false
 published: true
 categories: [Personal, Expression, Quality]
 ---
