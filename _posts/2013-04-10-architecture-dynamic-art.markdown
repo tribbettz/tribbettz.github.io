@@ -8,13 +8,13 @@ categories: [Quality, Architecture, Art, Reflection, Books, Perspective]
 
 "Architecture." What images does that word conjure up in your mind? For me, the word _architecture_ used to conjure images of ancient columns and turrets, linked together by a network of arches and bridges. It conjured up skyscrapers, cathedrals, and concert halls. It made me think of the MIT Stata Center. But there was so much more I was missing...
 
-![My image]({{ site.url}}/images/duomo.jpg) 
+![My image]({{ site.url}}/images/posts/duomo.jpg) 
 
 My travels backpacking through Europe supported my mental image of what I conceived to be _architecture_. I was surrounded by cathedrals and churches, castles and palaces, even Munich's famous Hofbräuhaus. But to me - at the time - they were just buildings. Some beautiful, some ugly, and all examples of architecture, but that's where my brain drew the line: it was something to be admired or appreciated, not something to be _experienced_...boy was I wrong!
 
 <!-- more -->
 
-![My image]({{ site.url}}/images/hofbrauhaus.jpg)
+![My image]({{ site.url}}/images/posts/hofbrauhaus.jpg)
 
 Architecture - from what I'm currently experiencing - is not  designing buildings on blueprints nor is it matching _Doric_ columns with _Ionic_ columns (or not matching...?). Sure, those are tools in architecture but they do not represent it's essence. 
 
@@ -35,7 +35,7 @@ I recently purchased a book called <a href='http://www.amazon.com/Experiencing-A
 
 >My object is in all modesty to endeavor to explain the instrument the architect plays on, to show what a great range it has and thereby awaken the senses to its music.
 
-![My image]({{ site.url}}/images/versailles.jpg)
+![My image]({{ site.url}}/images/posts/versailles.jpg)
 
 I like this sentence because my senses are slowly waking up. I'm reflecting on my past experiences and realizing that, although I didn't know it at the time, I was _experiencing architecture_. Let me take you back to Europe with me, back to Versailles. It was cold, it was January, but walking through the gardens I experienced the beauty and the design of it all. When I got far enough into the gardens, away from the palace, and looked up, it inspired thoughts of a stairway to heaven, with my man Louis' crib as the House of God. 
 

@@ -8,7 +8,7 @@ published: true
 categories: [Art, Color, Ideas, Expression, Music]
 ---
 
-![My image]({{ site.url}}/images/jazzy_boston.jpg) 
+![My image]({{ site.url}}/images/posts/jazzy_boston.jpg) 
 
 I went for a walk yesterday. It wasn't intended to be a walk. My mission - at first - was to get a Subway 6 inch turkey sandwich. But I was distracted; my mission took a detour. As I walked, I began to _experience_ my surroundings - the temperature, the sounds, the smells, the colors, the buildings. I realized that the neighborhoods of Boston are unique: they are expressive and individualistic but at the same time communal and sweeping. I was astounded.
 
@@ -16,18 +16,18 @@ What began as a trek for lunch ultimately turned into a three hour adventure. An
 
 <!-- more -->
 
-![My image]({{ site.url}}/images/colorful_door.jpg)
+![My image]({{ site.url}}/images/posts/colorful_door.jpg)
 
 Take a look at this door. Surrounded by gray paneling, the door bursts out like a stampeding herd of color. The deep red expresses the door's existence. "I am here! I exist!" says the door. But then, a cooling burst of _welcome_ is seen in that beautiful blue, as if to say "Come in. We are friendly. Don't believe me? Take a look through this little window..." And after being stunned by a burst of contrasting red and blue, your eyes are met with a transparent, pure window into another world; this doorway - having a welcoming existence - is the portal to that other world. With only three different colors and a small window, a door is transformed from _just a door_ into a _majestic portal to another world_. Whoa!
 
-![My image]({{ site.url}}/images/davis_homes.jpg)
+![My image]({{ site.url}}/images/posts/davis_homes.jpg)
 
 But this unique expression of contrasting colors isn't an anomaly of Boston; this kind of expression happens quite a lot, actually. For instance, Somerville - filled with its own _neighborhoods_ - has a vast palette of colors embellishing its homes. 
 
 
 Even between homes you see such an interesting contrast of colors. Here are two homes - blue and yellow - that are situated right next to one another. It's beautiful. It's unique. It's just another neighborhood of Boston...
 
-![My image]({{ site.url}}/images/boston_sidewalk.jpg)
+![My image]({{ site.url}}/images/posts/boston_sidewalk.jpg)
 
 I've traveled quite a bit and I've seen some amazing places. From the waterfalls of Hawai'i to the Venetian Canals there exists wondrous, phenomenal beauty. But I've never experienced a _beauty_ that was so deliberately and symphonically expressive as in Boston. Even the very sidewalks are carefully crafted. It's a very colorful place, and I mean that both figuratively and literally. So if you haven't been up this way, make a trip. And if you're already here then take a few minutes one day and look around; experience your city. And I can tell you, even _Subway sandwiches_ are pretty good.
 

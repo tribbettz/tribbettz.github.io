@@ -14,13 +14,13 @@ The most recent project for the class was to _Make Something that Makes Somethin
 
 <!-- more -->
 
-![My image]({{ site.url}}/images/color_of_music.jpg)
+![My image]({{ site.url}}/images/posts/color_of_music.jpg)
 
 I'm definitely not the first person to think about expressing myself using multiple senses. YOU do it, too! Everyday, you deliberately put on matching clothes (vision), you spray yourself with perfume (olfaction, smell), and you hopefully brush your teeth for your significant other if you're dating (taste)*. So there you go! Even before you leave your house in the morning you've expressed yourself using __three__ different senses. Bravo! Well done to you!
 
 During my brainstorming process, I came upon a project called <a href='http://web.media.mit.edu/~silver/drawdio/' target='_BLANK'>_Drawdio_</a>, which was developed by Jay Silver in the MIT Media Lab. It's a  "pencil that lets you draw music" using a <a href='http://en.wikipedia.org/wiki/Theremin' target='_BLANK'>Theremin</a> (an electronic musical instrument). It inspired me to think of a whole bunch of awesome tools I could build to express myself in brand new ways. But for the class, I decided it would be cool to generate a colorful picture from listening to music and _watching_ me dance. 
 
-![My image]({{ site.url}}/images/arduino_motion_sensor.jpg) 
+![My image]({{ site.url}}/images/posts/arduino_motion_sensor.jpg) 
 
 I did this by developing two modules. The first module changes the color of a circle based on the _loudness_ of the music or sound. The second module changes the position of the circle based on _location_. I used the <a href='http://www.processing.org/' target='_BLANK'>Processing Language</a> to build my app which listened to music input over the microphone and read arduino serial input from an ultrasonic motion sensor. My program took both these inputs and translated them into _circle colors_ and _circle locations_. 
 

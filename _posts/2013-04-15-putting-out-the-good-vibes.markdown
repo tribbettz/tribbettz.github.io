@@ -8,7 +8,7 @@ categories: [Neuroscience, Brain, Waves, Research, Ideas, Books]
 
 We've all been in situations where the awkwardness was palpable; situations where we could feel _bad vibes_. We've also been in situations that were harmonious and serene; situations where we could feel _good vibes_. These phrases - _good vibes_ and _bad vibes_ - represent something fundamental to human feelings: _vibrations_. Well, not _vibrations_ per se, but _waves_, specifically brain waves that  propagate from the brain at various _frequencies_ - various _vibrations_. Everything we do, every interaction we have, _influences_ or _is influenced_ by these _waves_. 
 
-![My image]({{ site.url}}/images/moving_mountains.jpg)
+![My image]({{ site.url}}/images/posts/moving_mountains.jpg)
 
 __So here's a question:__ Can we _predict_ emotional, mental, and physical responses to various stimuli based on brain wave readings? Additionally, can we _influence_ emotional, mental, and physical responses via brain wave manipulation? My hypothesis: _Absolutely_.
 
@@ -30,7 +30,7 @@ For example, if I measure your brain waves while you listen to various Led Zeppe
 
 I think it's a cool idea and it's something I want to learn more about. The possibility is fascinating: with a better understanding of these _neural oscillations_ (brain waves), we can make strides in creating Brain-Computer Interfaces (BCI), understanding Cognition and Information Encoding, and curing brain disorders like Parkinson's and Epilepsy.
 
-![My image]({{ site.url}}/images/seuss_places.jpg)
+![My image]({{ site.url}}/images/posts/seuss_places.jpg)
 
 Remember Dr. Seuss' <a href='http://www.amazon.com/Oh-Places-Youll-Dr-Seuss/dp/0679805273' target='_BLANK'>_Oh, the Places You'll Go_</a>? There is a phrase: "Kid, you'll move mountains!" and I've always interpreted this phrase in the metaphorical sense. But after researching the potential of what these _brain waves_ can do, I'm reminded of something my dad used to tell me when I was younger: "Eventually, Man will be able to move a mountain with one thought." I was too young to appreciate my dad's innovative thinking at the time, but now I'm beginning to see its worth and possibility. 
 

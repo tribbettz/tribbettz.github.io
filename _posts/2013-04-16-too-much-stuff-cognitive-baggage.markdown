@@ -8,7 +8,7 @@ published: true
 categories: [Neuroscience, Brain, Ideas, Comedy]
 ---
 
-![My image]({{ site.url}}/images/cognitive_baggage.jpg) 
+![My image]({{ site.url}}/images/posts/cognitive_baggage.jpg) 
 
 Stuff. We all have it. Sometimes we want more stuff. Other times we want to get rid of stuff. But in both cases our minds - our brains - are focusing on things, items, property; in a word, _stuff_. I don't want to go as far as to say that we are _slaves to our stuff_; that wouldn't be prudent. But I do think that all the stuff, all the things that we've either _owned_ or _experienced_ does require a non-trivial amount of cognitive capacity, or _brain space_; something I like to call _Cognitive Baggage_. 
 
