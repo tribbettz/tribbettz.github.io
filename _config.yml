@@ -22,6 +22,9 @@ url: "http://zacharytribbett.com" # the base hostname & protocol for your site
 twitter_username: tribbettz
 github_username: tribbettz
 
+# Link settings
+permalink: pretty
+
 # Build settings
 markdown: kramdown
 theme: minima
