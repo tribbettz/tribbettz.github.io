@@ -7,6 +7,8 @@ permalink: /about/
 
 <img src="{{ site.url}}/images/pages/me_about.png" class="img-circle rounded mx-auto d-block" height="300" width="275" alt="Me outside of Independence Space Shuttle">
 
+<br>
+
 <div class="text-center">
     <p>A Romantic. A Cook. A Musician. An Engineer. An Outdoorsman. A Brewer. And An Apsiring Humanist, happily finding his place in the world.</p>
     
