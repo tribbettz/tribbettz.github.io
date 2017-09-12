@@ -6,13 +6,12 @@ permalink: /experience/
 ---
 
 <div class="experience-wrapper">
-  <h1 class="page-heading">Experience</h1>
-    <br>
   {% for row in site.data.experience %}
     <div class="card text-center">
       <div class="card-body">
         <h4 class="card-title">{{ row.company }}</h4>
-        <p class="card-text"> <i>{{ row.blurb | remove_first: "<br>&emsp;" | truncate: 150 }}</i></p>
+        <p class="post-meta">{{ row.started }} - {{ row.ended }}</p>
+        <p class="card-text"> <i>{{ row.blurb | remove_first: "<br>&emsp;" | truncatewords: 30 }}</i></p>
         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#{{ row.id }}Modal">Read More...</button>
         
         <!-- Modal -->
@@ -26,8 +25,8 @@ permalink: /experience/
               {% endif %}
               <div class="modal-body">
                 <h4 class="modal-title" id="{{ row.id }}ModalLabel">{{ row.company }}</h4>
-                <h5>{{ row.position }}</h5>
-                <h6>{{ row.started }} - {{ row.ended }}</h6>
+                <h5 class="post-meta">{{ row.position }}</h5>
+                <h6 class="post-meta">{{ row.started }} - {{ row.ended }}</h6>
                 {{ row.blurb }}
                 <br><br>
               </div>
