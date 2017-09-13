@@ -3,10 +3,10 @@ layout: page
 title: Photography
 custom-title: none
 permalink: /photography/
-published: true
+published: false
 ---
 
-<h2 class="text-center">Through my eyes...</h2>
+<h2 class="text-center">Through My Eyes ... and a Lens</h2>
 
 <br>
 
