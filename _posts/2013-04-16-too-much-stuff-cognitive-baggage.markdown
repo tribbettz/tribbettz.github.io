@@ -28,4 +28,4 @@ So consider something before you buy it. You don't have to ask "Do I really _nee
 
 In a much funnier and more eloquent way, comedian George Carlin hits the nail on the head in commenting on society's obsession with _stuff_...
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/JLoge6QzcGY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="360" src="https://www.youtube.com/embed/JLoge6QzcGY?rel=0" frameborder="0" allowfullscreen></iframe>
