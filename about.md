@@ -15,4 +15,12 @@ permalink: /about/
     <p>The universe is full of wonder and awe - and it’s not a matter of knowing where to look; it’s a matter of knowing how to look.</p>
     
     <p>Get looking...</p>
+    
+    <br>
+    
+    <ul class="social">
+        <li><a href="https://www.linkedin.com/in/zacharytribbett/" target="_BLANK"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://github.com/tribbettz" target="_BLANK"><i class="fa fa-github"></i> </a></li>
+        <li><a href="http://twitter.com/tribbettz" target="_BLANK"><i class="fa fa-twitter"></i></a></li>
+    </ul>
 </div>
