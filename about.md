@@ -17,10 +17,11 @@ permalink: /about/
     <p>Get looking...</p>
     
     <br>
-    
-    <ul class="social">
-        <li><a href="https://www.linkedin.com/in/zacharytribbett/" target="_BLANK"><i class="fa fa-linkedin"></i></a></li>
-        <li><a href="https://github.com/tribbettz" target="_BLANK"><i class="fa fa-github"></i> </a></li>
-        <li><a href="http://twitter.com/tribbettz" target="_BLANK"><i class="fa fa-twitter"></i></a></li>
-    </ul>
+    <div class="social-div">
+        <ul class="social">
+            <li><a href="https://www.linkedin.com/in/zacharytribbett/" target="_BLANK"><i class="fa fa-linkedin"></i></a></li>
+            <li><a href="https://github.com/tribbettz" target="_BLANK"><i class="fa fa-github"></i> </a></li>
+            <li><a href="http://twitter.com/tribbettz" target="_BLANK"><i class="fa fa-twitter"></i></a></li>
+        </ul>
+    </div>
 </div>

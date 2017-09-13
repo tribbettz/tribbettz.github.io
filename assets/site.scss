@@ -31,18 +31,18 @@ img, iframe {
 
 .active{
     background-color: #DFE2DB;
-  }
+}
   
-ul {
+.social-div ul {
     overflow: auto;
 }
 
-ul li {
+.social-div ul li {
     list-style-type: none;
     float: left;
 }
 
-ul li a i {
+.social-div ul li a i {
     background: #205D7A;
     color: #fff;
     width: 40px;
@@ -54,17 +54,17 @@ ul li a i {
     padding-top: 15%;
 }
 
-.fa-github {
+.social-div .fa-github {
 	background:#000000
 } 
-.fa-linkedin {
+.social-div .fa-linkedin {
 	background:#007bb6
 }
-.fa-twitter {
+.social-div .fa-twitter {
 	background:#00aced
 }
 
-.social {
+.social-div .social {
     margin: 0 auto;
     display: table;
 }
