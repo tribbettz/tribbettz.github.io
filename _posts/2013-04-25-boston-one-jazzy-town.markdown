@@ -33,4 +33,4 @@ I've traveled quite a bit and I've seen some amazing places. From the waterfalls
 
 Boston is a cool place. Its demographics, culture, location, and history all melt together into something harmonious, something unique...something _jazzy_. And in the spirit of her birthday, I want to thank Ella Fitzgerald - a jazz woman I grew up listening too - for helping me experience in the world, what I experience in music. Happy birthday Ella, now play me out...
 
-<iframe src="http://www.youtube.com/embed/gjcHbb2BOGU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/gjcHbb2BOGU?rel=0" frameborder="0" allowfullscreen></iframe>
