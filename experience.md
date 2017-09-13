@@ -20,7 +20,7 @@ permalink: /experience/
             <div class="modal-content">
               {% if row.image %}
               <div class="modal-header">
-                <img src="{{ site.url}}/images/pages/experience/{{ row.image }}" alt="{{ row.company }}">
+                <img src="/images/pages/experience/{{ row.image }}" alt="{{ row.company }}">
               </div>
               {% endif %}
               <div class="modal-body">
