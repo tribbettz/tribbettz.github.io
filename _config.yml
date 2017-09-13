@@ -18,9 +18,10 @@ email: tribbettz+website@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Unconventionally Adventurous 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://zacharytribbett.com" # the base hostname & protocol for your site
+url: "https://zacharytribbett.com" # the base hostname & protocol for your site
 twitter_username: tribbettz
 github_username: tribbettz
+google_analytics: UA-106436090-1
 
 # Link settings
 permalink: pretty
