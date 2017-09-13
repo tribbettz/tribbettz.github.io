@@ -15,7 +15,7 @@ permalink: /experience/
         <button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#{{ row.id }}Modal">Read More...</button>
         
         <!-- Modal -->
-        <div class="modal fade" id="{{ row.id }}Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal fade" id="{{ row.id }}Modal" tabindex="-1" role="dialog" aria-labelledby="{{ row.id }}ModalLabel" aria-hidden="true">
           <div class="modal-dialog" role="document">
             <div class="modal-content">
               {% if row.image %}
