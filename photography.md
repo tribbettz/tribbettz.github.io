@@ -14,7 +14,7 @@ published: false
   {% for photo in site.data.photography %}
   <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6">
       <a type="button" class="btn btn-sm" data-toggle="modal" data-target="#{{ photo.id }}Modal">
-          <img src="/images/pages/photography/{{ photo.location }}" class="img-thumbnail" alt="{{ photo.title }}">
+          <img src="{{ site.url }}{{ site.page_img_path }}/photography/{{ photo.location }}" class="img-thumbnail" alt="{{ photo.title }}">
       </a>
   </div>
   <!-- Modal -->
@@ -22,7 +22,7 @@ published: false
     <div class="modal-dialog" role="document">
       <div class="modal-content">
         <div class="modal-body">
-            <img src="/images/pages/photography/{{ photo.location }}" alt="{{ photo.title }}" class="img-rounded">
+            <img src="{{ site.url }}{{ site.page_img_path }}/photography/{{ photo.location }}" alt="{{ photo.title }}" class="img-rounded">
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>

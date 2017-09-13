@@ -19,6 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Unconventionally Adventurous 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zacharytribbett.com" # the base hostname & protocol for your site
+post_img_path: "/images/posts"
+page_img_path: "/images/pages"
 twitter_username: tribbettz
 github_username: tribbettz
 google_analytics: UA-106436090-1

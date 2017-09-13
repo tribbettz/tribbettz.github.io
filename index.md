@@ -3,7 +3,7 @@ layout: page
 custom-title: none
 ---
 
-<img src="/images/pages/me_about.png" class="img-circle rounded mx-auto d-block" height="300" width="275" alt="Me outside of Independence Space Shuttle">
+<img src="{{ site.url }}{{ site.page_img_path }}/me_about.png" class="img-circle rounded mx-auto d-block" height="300" width="275" alt="Me outside of Independence Space Shuttle">
 
 <br>
 
