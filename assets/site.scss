@@ -14,6 +14,10 @@ img, iframe {
   text-align: center;
 }
 
+.border {
+    border: 1px solid lightgray;
+}
+
 @media screen and (min-width: 768px) { 
   .modal:before {
     display: inline-block;
