@@ -6,14 +6,14 @@ permalink: /photography/
 published: false
 ---
 
-<h2 class="text-center">Through My Eyes ... and a Lens</h2>
+<h2 class="text-center">through my eyes ... and a lens</h2>
 
 <br>
 
 <div class="experience-wrapper">
   {% for photo in site.data.photography %}
   <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6">
-      <a type="button" class="btn btn-sm" data-toggle="modal" data-target="#{{ photo.id }}Modal">
+      <a type="button" class="btn btn-sm" data-toggle="modal" data-target="#{{ photo.id }}Modal" style="width:200px; height:200px" >
           <img src="{{ site.url }}{{ site.page_img_path }}/photography/{{ photo.location }}" class="img-thumbnail" alt="{{ photo.title }}">
       </a>
   </div>
@@ -24,6 +24,7 @@ published: false
         <div class="modal-body">
             <img src="{{ site.url }}{{ site.page_img_path }}/photography/{{ photo.location }}" alt="{{ photo.title }}" class="img-rounded">
         </div>
+        <p class="text-center">{{ photo.title }}</p>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         </div>
