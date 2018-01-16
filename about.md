@@ -5,7 +5,7 @@ custom-title: none
 permalink: /about/
 ---
 
-<img src="{{ site.url }}{{ site.page_img_path }}/me_about.png" class="img-circle rounded mx-auto d-block border" height="375" width="251" alt="Me shooting photography in Glacier National Park, Montana">
+<img src="{{ site.url }}{{ site.page_img_path }}/me_about.png" class="img-circle rounded mx-auto d-block border aboutImage" height="375" width="251" alt="Me shooting photography in Glacier National Park, Montana">
 
 <br>
 
