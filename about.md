@@ -14,7 +14,7 @@ permalink: /about/
     
     <p>The universe is full of wonder and awe - and it’s not a matter of knowing where to look; it’s a matter of knowing how to look.</p>
     
-    <p>Get looking...</p>
+    <p>Dream Big. Think Limitlessly. Do Fearlessly.</p>
     
     <br>
     <div class="social-div">
