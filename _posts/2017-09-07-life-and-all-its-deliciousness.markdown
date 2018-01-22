@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tea and the Fermented Mother"
+title:  "Fermented Tea and It's Mother"
 date:   2017-09-14 13:27:47 -0500
 published: false
 categories: [Kombucha, Personal]

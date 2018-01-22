@@ -8,7 +8,7 @@ categories: [Personal, Expression, Quality]
 
 "Friends, Romans, Countrymen, lend me your ears." A canonical line said by one of history's most courageous individuals and one literature's most cunning characters: Mark Antony. I recently had the honor of playing the role of Mark Antony in this Spring's MIT Shakespeare Ensemble production of _Julius Caesar_. 
 
-![My image]({{ site.url }}{{ site.post_img_path }}/antony_speech.jpg)
+<img class="img-responsive img-rounded rounded mx-auto d-block border postImg" src="{{ site.url }}{{ site.post_img_path }}/antony_speech.jpg" alt="One of my monologues as Marc Antony">
 
 I first read the play during my sophomore year of high school and immediately fell in love with Antony's character. His character inspired me to learn more about the man, himself. Shakespeare took very little creative license in writing Antony; unlike many of his other characters, Bill kept Antony's essence true to the histories. This drew me even more to both Mark Antony and _Julius Caesar_. Once I began to act in theatre, I wanted to play the part of Mark Antony; I would have killed for that role. 
 
@@ -18,7 +18,7 @@ Luckily, I didn't have to kill anyone....
 
 I auditioned and received the part of Mark Antony. I was elated. It was a wonderful show and it was a growing experience for me. I really pushed myself and I honestly think that I have grown as both an actor and a person from this performance. 
 
-![My image]({{ site.url }}{{ site.post_img_path }}/antony_dogs.jpg)
+<img class="img-responsive img-rounded rounded mx-auto d-block border postImg" src="{{ site.url }}{{ site.post_img_path }}/antony_dogs.jpg" alt="Dogs of War Monologue">
 
 After the final show, basking in the wonder of it all, we had our final cast party. It went on until after dawn, and on my way back home, in whatever stupor that sleep deprivation, pride, and alcohol can cause, I wrote an entry into my notebook. Rather than looking back and trying to explain my feelings and thoughts, I'm going to quote that previous version of myself, immediately after this whole _acting experience_.
 
@@ -29,7 +29,7 @@ This was written just after dawn, after the final performance and final cast par
 >
 >I don't know if it was a culmination of events that catalyzed this or if I was revved up or if Antony himself spoke through me; whatever it was: it was most certainly a feeling. I felt it: It. I was the scene. I was the moment. I destroyed the constructs of "acting," demolished the set, broke beyond the audience, and became the character, became him - him that I would have killed to play: Mark Antony. 
 >
->![My image]({{ site.url }}{{ site.post_img_path }}/antony_commons.jpg)
+><img class="img-responsive img-rounded rounded mx-auto d-block border postImg" src="{{ site.url }}{{ site.post_img_path }}/antony_commons.jpg" alt="Antony with the Commons">
 >
 >I don't know why I love him, admire him. I was in the 10th grade when I read it and I didn't know the world. I hadn't experienced Time yet... I guess he was someone I wanted to be: smart, cunning, honorable, genuine, and true. Even still - I didn't really know what those words meant... I still may not.
 >
